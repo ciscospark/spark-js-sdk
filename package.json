@@ -162,7 +162,7 @@
     "on-finished": "^2.3.0",
     "parse-headers": "^2.0.2",
     "patch-package": "^6.2.2",
-    "pkijs": "^2.1.84",
+    "pkijs": "^2.1.95",
     "ps-node": "^0.1.6",
     "qs": "^6.7.0",
     "read-package-json": "^2.0.13",
