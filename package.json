@@ -113,7 +113,7 @@
     "cookie-parser": "^1.4.4",
     "core-decorators": "^0.20.0",
     "cors": "^2.8.5",
-    "crypto-js": "^3.1.9-1",
+    "crypto-js": "^4.0.0",
     "debug": "^3.2.6",
     "dependency-check": "^4.1.0",
     "detective": "^5.2.0",
