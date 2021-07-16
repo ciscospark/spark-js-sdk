@@ -130,7 +130,7 @@
     "exifr": "^5.0.3",
     "express": "^4.17.1",
     "express-session": "^1.16.2",
-    "express-validator": "^5.3.1",
+    "express-validator": "^6.5.0",
     "file-type": "^16.0.1",
     "firefox-profile": "^4.0.0",
     "fs-extra": "^8.1.0",
