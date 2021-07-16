@@ -186,7 +186,7 @@
     "webdriverio": "^6.12.1",
     "webrtc-adapter": "^7.7.0",
     "whatwg-fetch": "^2.0.4",
-    "ws": "^4.1.0",
+    "ws": "^5.2.3",
     "xhr": "^2.5.0",
     "xtend": "^4.0.2",
     "yakbak": "^3.0.0",
