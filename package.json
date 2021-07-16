@@ -147,7 +147,7 @@
     "javascript-state-machine": "^3.1.0",
     "jsonwebtoken": "^8.5.1",
     "lint-staged": "^8.2.1",
-    "load-grunt-tasks": "^3.5.2",
+    "load-grunt-tasks": "^5.1.0",
     "localforage": "^1.7.3",
     "lodash": "^4.17.21",
     "lodash-decorators": "^4.5.0",
